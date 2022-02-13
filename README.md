@@ -9,7 +9,7 @@ docker run --rm -it hamidgholami/test-app:latest
 ```
 
 ### test the script
-Also for testing the `test-app.sh` script, we can execute `test-app-test.sh` that contains **counterexample** in `test-script` directory.
+Also for testing the `test-app.sh` script, we can execute `test-app-test.sh` that contains **counterexample** <br /> in `test-script` directory.
 ```sh
 cd test-script
 ./test-app-test.sh
